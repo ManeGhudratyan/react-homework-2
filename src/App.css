@@ -1,0 +1,10 @@
+.App{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.myLogin{
+  color: rgb(140, 140, 219);
+}
